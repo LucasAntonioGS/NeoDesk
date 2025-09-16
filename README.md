@@ -1,6 +1,6 @@
-# API 3º Semestre ADS  
+# API 4º Semestre ADS  
 
-# Projeto PIM3  
+# Sistema Integrado para a Gestão de Chamados e Suporte Técnico baseado em IA - PIM
 
 <p align="center">
       <img src="docs/Img/logo.png" alt="logo do projeto" width="200">
@@ -24,14 +24,12 @@
 > Relatório de Testes: [PDF](docs/relatorios/relatorio_testes.pdf) 📊  
 >
 > Pasta de Documentação: [Link](docs) 📄  
-> 
-> Vídeo do Projeto: [YouTube](https://youtube.com) 📽️  
 
 ---
 
 ## 🏅 Desafio <a id="desafio"></a>
 
-Descrição do desafio proposto para o **PIM3** (inserir texto aqui).  
+O desafio consiste em desenvolver um sistema integrado para gestão de chamados e suporte técnico, utilizando Inteligência Artificial como apoio. A proposta é criar uma aplicação de Help Desk que permita tanto a abertura quanto o atendimento de chamados, de acordo com o nível de acesso do usuário. A Inteligência Artificial atuará como assistente do técnico responsável, sugerindo procedimentos a partir da base de conhecimento, de forma a agilizar a resolução de problemas e proporcionar um atendimento mais rápido e eficiente.
 
 ---
 
