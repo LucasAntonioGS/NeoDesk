@@ -33,9 +33,9 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 
 ---
 
-## Diagrama de Desenvolcimento do Projeto
+## Diagrama de Desenvolcimento do Projeto 📄
 
-Diagrama 📄
+[Diagrama de Funcionamento do Sistema](https://github.com/LucasAntonioGS/NeoDesk/blob/main/Diagrama_De_Funcionamento_Do_Sistema%20Atualizado%202.2.asta) 📄
 
 ---
 ## 📋 Backlog do Produto <a id="backlog"></a>
