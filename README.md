@@ -78,7 +78,7 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 | 🔖 **SPRINT 2** | 02/09 - 08/09 | |
 | 🔖 **SPRINT 3** | 09/mm - 23/09 |  |
 
-*(Completar com as datas reais e links de documentação)*  
+
 
 ---
 
