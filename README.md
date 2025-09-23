@@ -23,7 +23,7 @@
 >
 > Relatório de Testes: (testes ainda em desenvolvimento)
 >
-> Pasta de Documentação: [Link](docs) 📄  
+> Pasta de Documentação: Sendo feita 📄  
 
 ---
 
@@ -33,6 +33,11 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 
 ---
 
+## Diagrama de Desenvolcimento do Projeto
+
+Diagrama 📄
+
+---
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
 | Rank | Prioridade | User Story / História de Usuário                                                                                   | Story Points* | Sprint | Requisito do Cliente | Status |
@@ -75,7 +80,7 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 | Sprint          |    Período    | Documentação |
 | --------------- | :-----------: | -------------|
 | 🔖 **SPRINT 1** | 20/08 - 01/09 |  |
-| 🔖 **SPRINT 2** | 02/09 - 08/09 | |
+| 🔖 **SPRINT 2** | 02/09 - 08/09 |  |
 | 🔖 **SPRINT 3** | 09/mm - 23/09 |  |
 
 
