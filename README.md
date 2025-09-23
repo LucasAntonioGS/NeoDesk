@@ -33,12 +33,6 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 
 ---
 
-## 🏅 Solução <a id="solucao"></a>
-
-Breve explicação da solução implementada no **PIM3** (inserir texto aqui).  
-
----
-
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
@@ -97,16 +91,3 @@ Breve explicação da solução implementada no **PIM3** (inserir texto aqui).
 
 ## 📖 Manual de Instalação <a id="manual"></a>
 
-### 🛠 Pré-requisitos
-
-- Git ([Download](https://git-scm.com/downloads))  
-- Java JDK 11+ ([Download](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html))  
-- MySQL ([Download](https://dev.mysql.com/downloads/))  
-
----
-
-### 1. Clonar o Repositório  
-
-```bash
-git clone https://github.com/PedroRSouza0/PIM3.git
-cd PIM3
