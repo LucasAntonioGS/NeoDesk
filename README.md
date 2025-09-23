@@ -74,9 +74,9 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 
 | Sprint          |    Período    | Documentação |
 | --------------- | :-----------: | -------------|
-| 🔖 **SPRINT 1** | dd/mm - dd/mm | [Sprint 1 Docs](./docs/sprints/sprint-1/README.md) |
-| 🔖 **SPRINT 2** | dd/mm - dd/mm | [Sprint 2 Docs](./docs/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | dd/mm - dd/mm | [Sprint 3 Docs](./docs/sprints/sprint-3/README.md) |
+| 🔖 **SPRINT 1** | 20/08 - 01/09 |  |
+| 🔖 **SPRINT 2** | 02/09 - 08/09 | |
+| 🔖 **SPRINT 3** | 09/mm - 23/09 |  |
 
 *(Completar com as datas reais e links de documentação)*  
 
