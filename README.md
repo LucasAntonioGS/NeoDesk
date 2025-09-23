@@ -51,6 +51,8 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 |  7   |   Média    | Como **Usuário**, quero **editar minhas informações pessoais**, para manter meus dados sempre atualizados          |       –       |   3    |        RF07          |   ✅   |
 |  8   |   Baixa    | Como **Usuário**, quero **consultar o histórico de chamados**, para acompanhar solicitações anteriores             |       –       |   3    |        RF08          |   ✅   |
 |  9   |   Baixa    | Como **Administrador**, quero **remover usuários do sistema**, para revogar acessos de ex-colaboradores            |       –       |   3    |        RF09          |   ✅   |
+|  10  |   Alta     | Desenvolver uma interface, que seja amigavel e "minimalista", para que não seja dificil a utilização.              |       –       |   4    |        RF10          |    X    |
+|  11  |   Média    | Desenvolver uma interface de site que seja compativel para ser utilizada no celular                                |       –       |   4    |        RF11          |    X    |
 
 
 ---
