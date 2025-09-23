@@ -21,7 +21,7 @@
 
 > Status do Projeto: Em desenvolvimento 🚧  
 >
-> Relatório de Testes: [PDF](docs/relatorios/relatorio_testes.pdf) 📊  
+> Relatório de Testes: (testes ainda em desenvolvimento)
 >
 > Pasta de Documentação: [Link](docs) 📄  
 
@@ -35,12 +35,18 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-| Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
-| :--: | :--------: | ---------- | :----------: | :----: | :------------------: | :----: |
-|  1   |    Alta    | ...        |      ...     |   ...  |         ...          |   ...  |
-|  2   |    Alta    | ...        |      ...     |   ...  |         ...          |   ...  |
+| Rank | Prioridade | User Story / História de Usuário                                                                                   | Story Points* | Sprint | Requisito do Cliente | Status |
+| :--: | :--------: | ------------------------------------------------------------------------------------------------------------------ | :-----------: | :----: | :------------------: | :----: |
+|  1   |    Alta    | Como **Administrador**, quero **cadastrar usuários**, para que novos colaboradores possam acessar o sistema        |       –       |   1    |        RF01          |   ✅   |
+|  2   |    Alta    | Como **Administrador**, quero **alterar a senha de um usuário**, para ajudá-lo em caso de esquecimento             |       –       |   1    |        RF02          |   ✅   |
+|  3   |    Alta    | Como **Usuário**, quero **abrir um chamado**, para solicitar suporte técnico                                       |       –       |   1    |        RF03          |   ✅   |
+|  4   |    Alta    | Como **Técnico**, quero **responder a um chamado**, para registrar o atendimento e a solução aplicada              |       –       |   2    |        RF04          |   ✅   |
+|  5   |    Alta    | Como **Usuário**, quero **fechar um chamado**, para encerrar solicitações resolvidas                               |       –       |   2    |        RF05          |   ✅   |
+|  6   |   Média    | Como **Administrador**, quero **exportar dados de chamados**, para relatórios e análises de desempenho             |       –       |   3    |        RF06          |   ✅   |
+|  7   |   Média    | Como **Usuário**, quero **editar minhas informações pessoais**, para manter meus dados sempre atualizados          |       –       |   3    |        RF07          |   ✅   |
+|  8   |   Baixa    | Como **Usuário**, quero **consultar o histórico de chamados**, para acompanhar solicitações anteriores             |       –       |   3    |        RF08          |   ✅   |
+|  9   |   Baixa    | Como **Administrador**, quero **remover usuários do sistema**, para revogar acessos de ex-colaboradores            |       –       |   3    |        RF09          |   ✅   |
 
-*(Preencher com as User Stories do projeto)*  
 
 ---
 
@@ -88,6 +94,4 @@ O desafio consiste em desenvolver um sistema integrado para gestão de chamados 
 </h4>
 
 ---
-
-## 📖 Manual de Instalação <a id="manual"></a>
 
